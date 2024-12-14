@@ -493,7 +493,7 @@
   }
   
   @media (max-width: 750px) {
-    #projects-div-row-1, #projects-div-row-2 {
+    #projects-div-row-1, .projects-div-row-2 {
       flex-direction: column;
       justify-content: center;
       align-items: center;
